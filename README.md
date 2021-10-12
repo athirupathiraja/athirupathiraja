@@ -1,7 +1,7 @@
 ### 👋 Welcome
 
 
-I am Athiru and I am computer engineering student in Canada. Check out some cool projects on my GitHub!
+Hi! I am Athiru and I am computer engineering student in Canada. Check out some cool projects on my GitHub!
 
 #### 👨🏽‍💻 Work Experience: 
 - Software Enginner at GAO Tek [Aug 2021 - Present]
