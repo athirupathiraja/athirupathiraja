@@ -1,4 +1,4 @@
-### 👋 Welcome
+### Welcome 👋 
 
 
 Hi! I am Athiru and I am computer engineering student in Canada. Check out some cool projects on my GitHub!
