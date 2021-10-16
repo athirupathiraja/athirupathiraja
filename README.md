@@ -10,7 +10,7 @@ Hi! I am Athiru and I am computer engineering student in Canada. Check out some 
 
 
 #### 👀 Current Project:  
-- NFT price analysis and forecasting using Coinbase data and Tweepy. 
+- NFT price analysis and multivariate time series forecasting using a LSTM neural netowrk with Coinbase data and Tweepy. 
 
 #### 🌱 My Interests: 
 - ML neural network architecture
