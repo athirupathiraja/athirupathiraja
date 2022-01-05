@@ -5,7 +5,7 @@ Hi! I am Athiru and I am computer engineering student in Canada. Check out some 
 
 #### 👨🏽‍💻 Work Experience: 
 - Software Enginner at GAO Tek [Aug 2021 - Present]
-- Digital Marketing Intern at GAO Tek [Jun 2021 - Aug 2021] 
+- SEO Developer Intern at GAO Tek [Jun 2021 - Aug 2021] 
 - Buisness Development Intern at Trivayu Infotech [May 2021 - Jul 2021] 
 
 
