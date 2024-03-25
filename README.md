@@ -7,7 +7,6 @@ Hi! I am Athiru and I am computer engineering student in Canada. Check out some 
 - Data Engineer Intern at Investment Management Cooperation of Ontario [May 2023 – Aug 2023]
 - Buisness Systems Analyst Intern at TD Bank [May 2022 - Aug 2022]
 - Software Enginner Intern at GAO Tek [Aug 2021 - Dec 2021]
-- SEO Developer Intern at GAO Tek [Jun 2021 - Aug 2021] 
 - Buisness Development Intern at Trivayu Infotech [May 2021 - Jul 2021] 
 
 
