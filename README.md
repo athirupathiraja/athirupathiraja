@@ -14,8 +14,8 @@ Hi! I am Athiru and I am computer engineering student in Canada. Check out some 
 - NFT price analysis and multivariate time series forecasting using a LSTM neural network with Coinbase data and Tweepy. 
 
 #### 🌱 My Interests: 
-- ML neural network architecture
-- App Development 
+- Software Dev
+- ML
 - Learning in general :)
 
 
