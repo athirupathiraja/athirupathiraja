@@ -18,7 +18,7 @@ Hi! I am Athiru and I am computer engineering grad 🔨. Check out some cool pro
 - Learning in general :)
   
 
- 📫 Reach me by email or LinkedIn: athirupathiraja777@gmail.com | https://www.linkedin.com/in/athiru-pathiraja-8324761b4/
+ 📫 Reach me by email or LinkedIn: athirupathiraja777@gmail.com | https://www.linkedin.com/in/athiru-pathiraja
 
 <!---
 athirupathiraja/athirupathiraja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
