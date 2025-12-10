@@ -4,10 +4,10 @@
 Hi! I am Athiru and I am computer engineering grad 🔨. Check out some cool projects on my GitHub!
 
 #### 👨🏽‍💻 Work Experience: 
-- Solutions Architect @ Plotly [Aug 2024 - Present]
+- Solutions Architect @ Plotly [May 2024 - Present]
+- Software Engineer @ TD Bank [May 2022 - May 2022]
 - Software Engineer Intern @ Zebra Technologies [May 2024 – Aug 2024]
 - Software Engineer Intern @ Investment Management Corporation of Ontario [May 2023 – Aug 2023]
-- Software Engineer Intern @ TD Bank [May 2022 - Aug 2022]
 - Software Enginner Intern @ GAO Tek [Aug 2021 - Dec 2021]
 - Buisness Development Intern @ Trivayu Infotech [May 2021 - Jul 2021] 
 
